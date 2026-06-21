@@ -1,2 +1,16 @@
-# azure-iam-automation
-A collection of real-world Azure IAM automation scripts using Microsoft Graph and PowerShell. Includes MFA audits, Conditional Access backups, lifecycle automation, privileged access reviews, and Zero Trust compliance checks for identity governance and security.
+# Identity Lifecycle Automation (Joiner–Mover–Leaver)
+This branch contains automation for the full identity lifecycle — onboarding, role changes, and offboarding. These workflows ensure consistent, secure, and auditable identity operations.
+
+Identity lifecycle automation is essential for:
+
+* Reducing manual provisioning errors
+
+* Ensuring timely access assignment
+
+* Preventing orphaned accounts
+
+* Maintaining license hygiene
+
+* Supporting HR-driven workflows
+
+This branch includes scripts that integrate with CSV inputs, HR systems, and Graph API.
