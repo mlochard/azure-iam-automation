@@ -3,12 +3,12 @@ This branch provides automation for managing Conditional Access (CA) policies â€
 
 Conditional Access policies evolve frequently due to:
 
-New security requirements
+* New security requirements
 
-Device compliance changes
+* Device compliance changes
 
-Application onboarding
+* Application onboarding
 
-Risk-based access adjustments
+* Risk-based access adjustments
 
 This branch ensures CA policies are backed up, versioned, compared, and auditable.
