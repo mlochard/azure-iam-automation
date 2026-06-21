@@ -1,4 +1,4 @@
-# azure-iam-automation
+# Multi-Factor Authentication (MFA) Audit & Authentication Security
 This branch contains a comprehensive suite of automation tools designed to evaluate, monitor, and strengthen MFA posture across Microsoft Entra ID (Azure AD). MFA is a foundational pillar of Zero Trust, and these scripts support ongoing governance, compliance, and identity security operations.
 
 Modern identity attacks frequently target weak authentication methods, stale accounts, and users who have not fully registered MFA. This branch provides:
