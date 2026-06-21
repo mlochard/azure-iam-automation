@@ -1,2 +1,3 @@
 # azure-iam-automation
-A collection of real-world Azure IAM automation scripts using Microsoft Graph and PowerShell. Includes MFA audits, Conditional Access backups, lifecycle automation, privileged access reviews, and Zero Trust compliance checks for identity governance and security.
+This repository showcases my hands‑on experience with Identity & Access Management (IAM) in Microsoft Entra ID (Azure AD), using PowerShell, Microsoft Graph, and automation workflows that reflect real-world IAM operations.
+It includes scripts, diagrams, and governance workflows that demonstrate how I approach identity security, lifecycle automation, privileged access, and Zero Trust enforcement.
