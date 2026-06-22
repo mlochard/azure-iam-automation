@@ -1,3 +1,12 @@
-# azure-iam-automation
-This repository showcases my hands‑on experience with Identity & Access Management (IAM) in Microsoft Entra ID (Azure AD), using PowerShell, Microsoft Graph, and automation workflows that reflect real-world IAM operations.
-It includes scripts, diagrams, and governance workflows that demonstrate how I approach identity security, lifecycle automation, privileged access, and Zero Trust enforcement.
+# Zero Trust Device Compliance & Endpoint Security Automation
+This branch contains automation for evaluating device compliance posture using Intune and Entra ID. Device compliance is a core requirement for Zero Trust access.
+
+Zero Trust requires:
+
+* Verified identity
+
+* Verified device
+
+* Verified context
+
+This branch provides tools to audit device compliance, detect non-compliant devices, and enforce secure access.

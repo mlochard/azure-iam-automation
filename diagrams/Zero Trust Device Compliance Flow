@@ -1,0 +1,24 @@
++------------------+
+|   User Device    |
++------------------+
+          |
+          v
++---------------------------+
+| Intune Compliance Check   |
++---------------------------+
+          |
+   +------+------+
+   |             |
+   v             v
+Compliant     Non-Compliant
+   |             |
+   v             v
++---------------------------+
+| Conditional Access Check  |
++---------------------------+
+          |
+   +------+------+
+   |             |
+   v             v
+Access         Block Access
+Granted        (Remediation)
