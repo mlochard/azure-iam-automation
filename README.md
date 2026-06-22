@@ -1,16 +1,14 @@
-# Multi-Factor Authentication (MFA) Audit & Authentication Security
-This branch contains a comprehensive suite of automation tools designed to evaluate, monitor, and strengthen MFA posture across Microsoft Entra ID (Azure AD). MFA is a foundational pillar of Zero Trust, and these scripts support ongoing governance, compliance, and identity security operations.
+# Conditional Access Policy Governance, Backup & Version Control
+This branch provides automation for managing Conditional Access (CA) policies — one of the most critical components of Zero Trust. CA policies determine who can access what, under which conditions, and from which devices.
 
-Modern identity attacks frequently target weak authentication methods, stale accounts, and users who have not fully registered MFA. This branch provides:
+Conditional Access policies evolve frequently due to:
 
-* Automated MFA compliance checks
+* New security requirements
 
-* Weak MFA method detection (SMS/Voice)
+* Device compliance changes
 
-* MFA registration exports for audits
+* Application onboarding
 
-* Identity risk analysis
+* Risk-based access adjustments
 
-* Workflow diagrams illustrating authentication flows
-
-These tools are designed to support IAM analysts, security engineers, and governance teams responsible for enforcing MFA standards.
+This branch ensures CA policies are backed up, versioned, compared, and auditable.
