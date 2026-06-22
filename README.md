@@ -1,3 +1,14 @@
-# azure-iam-automation
-This repository showcases my hands‑on experience with Identity & Access Management (IAM) in Microsoft Entra ID (Azure AD), using PowerShell, Microsoft Graph, and automation workflows that reflect real-world IAM operations.
-It includes scripts, diagrams, and governance workflows that demonstrate how I approach identity security, lifecycle automation, privileged access, and Zero Trust enforcement.
+# Privileged Identity Management (PIM) Automation & Governance
+This branch contains automation for managing privileged roles in Entra ID. Privileged accounts are the highest-value targets for attackers, and PIM helps enforce Just-In-Time (JIT) access.
+
+Privileged Identity Management (PIM) ensures:
+
+* No standing admin access
+
+* Time-bound role activation
+
+* Approval workflows
+
+* Full audit logging
+
+This branch provides tools to audit, export, and govern privileged roles.
