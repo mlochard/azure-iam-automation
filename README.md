@@ -1,3 +1,16 @@
-# azure-iam-automation
-This repository showcases my hands‑on experience with Identity & Access Management (IAM) in Microsoft Entra ID (Azure AD), using PowerShell, Microsoft Graph, and automation workflows that reflect real-world IAM operations.
-It includes scripts, diagrams, and governance workflows that demonstrate how I approach identity security, lifecycle automation, privileged access, and Zero Trust enforcement.
+# Identity Lifecycle Automation (Joiner–Mover–Leaver)
+This branch contains automation for the full identity lifecycle — onboarding, role changes, and offboarding. These workflows ensure consistent, secure, and auditable identity operations.
+
+Identity lifecycle automation is essential for:
+
+* Reducing manual provisioning errors
+
+* Ensuring timely access assignment
+
+* Preventing orphaned accounts
+
+* Maintaining license hygiene
+
+* Supporting HR-driven workflows
+
+This branch includes scripts that integrate with CSV inputs, HR systems, and Graph API.
